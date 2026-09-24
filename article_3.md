@@ -1,4 +1,4 @@
 ## Donate
-- I would like to save and put a down payment on a house 
+- I would like to donate to animal shelters and associations 
 
 ![Donate](Donate.jpg)
